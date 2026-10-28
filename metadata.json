@@ -1,0 +1,6 @@
+{
+  "name": "Cake Paradise",
+  "description": "Every Celebration Deserves a Beautiful Cake! Premium handcrafted cakes, custom bakes & desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
